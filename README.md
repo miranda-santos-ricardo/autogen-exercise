@@ -1,5 +1,6 @@
 ## Network of Agents with AutoGen
-<img width="1470" height="592" alt="image" src="https://github.com/user-attachments/assets/9a030771-6a29-4189-96b6-bc7ea1f2f753" />
+<img width="1470" height="592" alt="image" src="https://github.com/user-attachments/assets/b30783eb-a7eb-4f40-a375-562274d31d4e" />
+
 
 
 # autogen-exercise
