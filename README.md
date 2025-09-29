@@ -12,6 +12,7 @@
 # How to run it
  - Clone the repo
  - create the virtual environment (I used  virtualenv)
+ - update the .env file for each agent and the coordinator
  - for each agent, coordinator and registry open a separated terminal:
    - activate the virtual environment and run the python agent.py inside each folder
    - to check if the agent is running, go to the http://localhost:PORT/a2a
