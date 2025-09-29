@@ -1,0 +1,13 @@
+autogen-core
+autogen-ext[openai]
+
+#to mcp exercise
+autogen-agentchat
+autogen-ext[mcp]
+mcp-server-fetch
+
+fastapi
+python_a2a
+
+uvicorn
+gradio
