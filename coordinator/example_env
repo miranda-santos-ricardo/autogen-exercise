@@ -1,6 +1,6 @@
 #AGENT DEFINITION
 AGENT_VERSION=1.0.0
-AGENT_NAME=Atos_DataManager
+AGENT_NAME=_DataManager
 AGENT_DESCRIPTION="A senior data manager agent that receive the user request and distribute between the agents specialized available."
 AGENT_HOST=http://localhost
 AGENT_PORT=61001
